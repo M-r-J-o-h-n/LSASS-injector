@@ -7,7 +7,7 @@ So to use this injector actaully , you need some modifications.
 
 [HOW IT WORKS]
 LSASS has a handle that has read and write permission to processes that need network connection.
-This injector uses that handle which noramlly is prohibited by some protection mechanism.
+This injector uses that handle which noramlly is prohibited in normal process.
 
 This solution contains two project.
 One is manual map injector, and the other is manual map injector that runs in lsass.
