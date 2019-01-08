@@ -1,0 +1,11 @@
+﻿  DedicatedInjector.cpp
+  Injector.cpp
+  코드를 생성하고 있습니다...
+  Logger.cpp
+c:\users\hunter\documents\visual studio 2017\projects\lsassinjector\dedicatedinjector\logger.cpp(36): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hunter\documents\visual studio 2017\projects\lsassinjector\dedicatedinjector\logger.cpp(45): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hunter\documents\visual studio 2017\projects\lsassinjector\dedicatedinjector\logger.cpp(54): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hunter\documents\visual studio 2017\projects\lsassinjector\dedicatedinjector\logger.cpp(62): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hunter\documents\visual studio 2017\projects\lsassinjector\dedicatedinjector\logger.cpp(73): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+DedicatedInjector.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/INCREMENTAL:NO' 사양으로 인해 무시됩니다.
+  DedicatedInjector.vcxproj -> C:\Users\Hunter\Documents\Visual Studio 2017\Projects\LsassInjector\x64\Debug\DedicatedInjector.exe
