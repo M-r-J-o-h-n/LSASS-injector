@@ -2,7 +2,7 @@
  
 
 [ANNOUNCEMENT]
-Some anti-cheat program now strip handle permission of lsass.
+Some anti-cheat programs now strip handle permission of lsass.
 So to use this injector actaully , you need some modifications.
 
 [HOW IT WORKS]
