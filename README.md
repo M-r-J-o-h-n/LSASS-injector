@@ -12,8 +12,6 @@ This injector uses that handle which noramlly is prohibited in normal process.
 This solution contains two project.
 One is manual map injector, and the other is manual map injector that runs in lsass.
 
-Manual mapper map LsassInjector.dll.
-Then LsassInjector map our dll to target process.
-After injection is done, DedicatedInjector.exe erase every traces that it left.
-
-
+The DedicatedInjector.exe map The LsassInjector.dll.
+Then the LsassInjector map our dll to target process.
+After the injection is done, DedicatedInjector.exe erase every traces that it left in lsass.exe.
